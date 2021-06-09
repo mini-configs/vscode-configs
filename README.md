@@ -1,4 +1,4 @@
-# vscode-configs
+# VSCode Configs
 
 Principal and useful extensions: 
 
@@ -88,7 +88,9 @@ Principal and useful extensions:
 - Publisher: Microsoft
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
 
+
 **Scala (Metals)**
+---
 - Id: scalameta.metals
 - Description: Scala language server with rich IDE features
 - Publisher: Scalameta
