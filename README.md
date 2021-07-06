@@ -81,6 +81,14 @@ Principal and useful extensions:
 - Publisher: Microsoft
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
+**cornflakes-linter**
+---
+- Id: kevinglasson.cornflakes-linter
+- Description: Wrapper for Python flake8 linter and associated plugins. It rectifies current issues with displaying ALL flake8 problems in the problems tab.
+- Version: 0.5.1
+- Publisher: kevinglasson
+- VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=kevinglasson.cornflakes-linter
+
 **Remote - SSH**
 ---
 - Id: ms-vscode-remote.remote-ssh
